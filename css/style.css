@@ -1,0 +1,17 @@
+.header{
+    background-color: #000000;
+}
+.header a{
+    color:var(--orange);
+}
+body{
+    font-family:'Open Sans', sans-serif;
+}
+
+b, strong{
+    font-weight:bolder;
+}
+
+.title{
+    font-family: 'Raleway', sans-serif;
+}
